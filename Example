@@ -26,6 +26,5 @@ if(username.getText().toString().equals("admin") && password.getText().toString(
 //correcct password 
 }else{ 
 //wrong password
-}
-
+} 
 	
